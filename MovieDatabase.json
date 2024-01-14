@@ -1,0 +1,47 @@
+{
+    "Harry Potter and the Sorcerer's Stone": {
+        "author": "Stephen Cloves, J.K. Rowling",
+        "characters": "Daniel Radcliffe - Harry Potter, Rupert Grint - Ron Weasley, Emma Watson - Hermione Granger",
+        "country": "Great Britain, USA",
+        "dateOfCreation": "04.11.2001",
+        "director": "Chris Columbus",
+        "producer": "Todd Arnow, Michael Barnathan, Chris Columbus",
+        "studio": "Warner Bros"
+    },
+    "How are you?": {
+        "author": "Hayao Miyazaki",
+        "characters": "Mahito Maki - Soma Santoki, Himi - Aimyon, Izumi - Keiko Takeshita",
+        "country": "Japan",
+        "dateOfCreation": "14.07.2023",
+        "director": "Hayao Miyazaki",
+        "producer": "Toshio Suzuki, Goro Miyazaki, Koji Hoshino",
+        "studio": "Ghibli"
+    },
+    "The Last of Us": {
+        "author": "Neil Drakmann, Craig Mazin",
+        "characters": "Pedro Pascal - Joel Miller, Bella Ramsey - Ellie William",
+        "country": "Canada, USA",
+        "dateOfCreation": "15.01.2023",
+        "director": "Craig Mazin, Ali Abbasi, Jeremy Webb",
+        "producer": "Neil Drakmann, Jane Allison Hooper, Rose Lam",
+        "studio": "Naughty Dog, Sony Computer Entertainment"
+    },
+    "The Silence of the Lambs": {
+        "author": "Ted Talley, Thomas Harris",
+        "characters": "Jodie Foster - Clarice Starling, Anthony Hopkins - Dr. Hannibal Lecter",
+        "country": "USA",
+        "dateOfCreation": "30.01.1991",
+        "director": "Jonathan Demme",
+        "producer": "Ronald M. Bozeman, Grace Blake, Gary Getzman",
+        "studio": "Orion Pictures Corporation"
+    },
+    "The Taming of the Shrew": {
+        "author": "Franco Castellano, Giuseppe Moccia, William Shakespeare",
+        "characters": "Adriano Celentano - Elia Codogno, Ornella Muti - Lisa Silvestri, Edith Peters - Haushälterin Mamie",
+        "country": "Italy",
+        "dateOfCreation": "20.12.1980",
+        "director": "Franco Castellano, Giuseppe Moccia",
+        "producer": "Mario Cecchi Gori, Vittorio Cecchi Gori",
+        "studio": "Capital film"
+    }
+}
